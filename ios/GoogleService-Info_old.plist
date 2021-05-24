@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>677471926589-3lchtvtlf7g9b50j745g0flfp7necqj8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.677471926589-3lchtvtlf7g9b50j745g0flfp7necqj8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>677471926589-6hagk6o8n7mc3uv76ei0u9cf42sjfnoo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9cXuXUs4pH_ISKgJjJYNPe0Li5i754DE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>677471926589</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.turbo2go-user</string>
+	<key>PROJECT_ID</key>
+	<string>turbo2go-a07a2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>turbo2go-a07a2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:677471926589:ios:7fd7ecae96ed3428af2d54</string>
+	<key>DATABASE_URL</key>
+	<string>https://turbo2go-a07a2.firebaseio.com</string>
+</dict>
+</plist>
